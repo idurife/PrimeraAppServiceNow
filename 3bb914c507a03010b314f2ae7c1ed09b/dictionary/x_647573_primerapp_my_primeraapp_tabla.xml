@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My PrimeraApp Tabla" max_length="40" name="x_647573_primerapp_my_primeraapp_tabla" sizeclass="0" type="collection">
+        <element label="My integer field" max_length="40" name="my_integer_field" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="My string field" max_length="40" name="my_string_field" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
